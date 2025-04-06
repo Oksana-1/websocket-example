@@ -1,0 +1,9 @@
+{
+  "name": "websocket-example",
+  "version": "1.0.0",
+  "description": "Websocket frontend and backend",
+  "main": "index.js",
+  "repository": "https://github.com/Oksana-1/websocket-example",
+  "author": "Oksana-1",
+  "license": "MIT"
+}
