@@ -1,5 +1,6 @@
 {
   "name": "websocket-example",
+  "type": "module",
   "version": "1.0.0",
   "description": "Websocket frontend and backend",
   "main": "index.js",
@@ -11,5 +12,8 @@
   },
   "scripts": {
     "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.1"
   }
 }
