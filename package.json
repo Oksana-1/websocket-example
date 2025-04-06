@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/Oksana-1/websocket-example",
   "author": "Oksana-1",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  }
 }
